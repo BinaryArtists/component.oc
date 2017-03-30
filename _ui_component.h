@@ -100,3 +100,6 @@
 // User guide view
 #import "SGGuideDispatcher.h"
 
+// UITableViewCell
+#import "UITableView+FDTemplateLayoutCell.h"
+
